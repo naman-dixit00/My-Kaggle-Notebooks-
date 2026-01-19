@@ -51,3 +51,32 @@ This Repository Contains the details about my works on kaggle in a very differen
 | **CUDA-Accelerated CNN/RNN**             | **GPU Parallel AI Computing**                               | **CIFAR-10 / MNIST (High-Throughput Mode)**            | Execute massively-parallel deep learning ops using fused CUDA kernels optimized for tensor algebra throughput.                                                                                            |
 | **Tensor Core Optimization**             | **Mixed-Precision GPU Supercomputing**                      | **Large-Scale Synthetic DL Benchmark**                 | Optimize tensor-core workloads by leveraging FP16/BF16 mixed-precision computation for high-bandwidth matrix multiplications.                                                                             |
 | **RL (DQN, PPO, A3C)**                   | **Drug Discovery — Molecular Optimization**                 | **Reinforcement Molecular Generation Dataset**         | Learn molecular design policies that optimize chemical reward landscapes for synthesizability, stability, and drug-likeness.                                                                              |
+
+---
+
+# Kaggle Datasets Portfolio: Naman Dixit
+
+This document provides a structured list of the public datasets hosted on my Kaggle profile. Each dataset is focused on specialized domains including Computational Neuroscience, Quantum Machine Learning, and Physics-informed AI.
+
+### **Dataset Directory**
+
+| # | Dataset Title | Link |
+| --- | --- | --- |
+| 1 | **Ising Criticality Dynamics Transformers Datasets** | [Access Dataset](https://www.google.com/search?q=https://www.kaggle.com/datasets/namandixit07/ising-criticality-dynamics-transformers) |
+| 2 | **High-Speed Diffraction-Encoded Optical Matrix Data** | [Access Dataset](https://www.google.com/search?q=https://www.kaggle.com/datasets/namandixit07/high-speed-diffraction-encoded-optical-matrix) |
+| 3 | **Spike Morphology & Neural Decision Dataset** | [Access Dataset](https://www.google.com/search?q=https://www.kaggle.com/datasets/namandixit07/spike-morphology-neural-decision-dataset) |
+| 4 | **Energy-Landscape Wafer Variation Benchmark (ELWVB)** | [Access Dataset](https://www.kaggle.com/datasets/namandixit07/energy-landscape-wafer-variation-benchmark-elwvb) |
+| 5 | **Synthetic Human Connectome : S-400 VBT-1200** | [Access Dataset](https://www.kaggle.com/datasets/namandixit07/synthetic-human-connectome-s-400-vbt-1200) |
+| 6 | **Quantum-ML-Net Dataset** | [Access Dataset](https://www.google.com/search?q=https://www.kaggle.com/datasets/namandixit07/quantum-ml-net-dataset) |
+| 7 | **Brain Computer Interface @ LRNN_AAL Dataset** | [Access Dataset](https://www.google.com/search?q=https://www.kaggle.com/datasets/namandixit07/brain-computer-interface-lrnn-aal-dataset) |
+| 8 | **Cortical Multi-Region Connectivity Dataset** | [Access Dataset](https://www.google.com/search?q=https://www.kaggle.com/datasets/namandixit07/cortical-multi-region-connectivity-dataset) |
+... |   Ongoing ..
+---
+
+### **Overview of Contributions**
+
+* **Total Datasets:** _ 
+* **Primary Domains:** Quantum Computing, Brain-Computer Interface (BCI), Neural Dynamics, and Optical Physics , Drug Discovery .
+* **Quality Standard:** Most datasets maintain a **10.0 Usability Score**, ensuring high-quality metadata and documentation for the research community.
+
+---
