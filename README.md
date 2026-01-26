@@ -70,7 +70,7 @@ This document provides a structured list of the public datasets hosted on my Kag
 | 6 | **Quantum-ML-Net Dataset** | [Access Dataset](https://www.google.com/search?q=https://www.kaggle.com/datasets/namandixit07/quantum-ml-net-dataset) |
 | 7 | **Brain Computer Interface @ LRNN_AAL Dataset** | [Access Dataset](https://www.google.com/search?q=https://www.kaggle.com/datasets/namandixit07/brain-computer-interface-lrnn-aal-dataset) |
 | 8 | **Cortical Multi-Region Connectivity Dataset** | [Access Dataset](https://www.google.com/search?q=https://www.kaggle.com/datasets/namandixit07/cortical-multi-region-connectivity-dataset) |
-... |   Ongoing ..
+| 9 | **Multi-parameter Interference Photonic - Diffraction Optical Signatures Dataset** | [Access Dataset](https://www.kaggle.com/datasets/namandixit07/mip-photonic) |
 ---
 
 ### **Overview of Contributions**
