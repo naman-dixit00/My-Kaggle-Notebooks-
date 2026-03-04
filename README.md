@@ -71,6 +71,7 @@ This document provides a structured list of the public datasets hosted on my Kag
 | 7 | **Brain Computer Interface @ LRNN_AAL Dataset** | [Access Dataset](https://www.google.com/search?q=https://www.kaggle.com/datasets/namandixit07/brain-computer-interface-lrnn-aal-dataset) |
 | 8 | **Cortical Multi-Region Connectivity Dataset** | [Access Dataset](https://www.google.com/search?q=https://www.kaggle.com/datasets/namandixit07/cortical-multi-region-connectivity-dataset) |
 | 9 | **Multi-parameter Interference Photonic - Diffraction Optical Signatures Dataset** | [Access Dataset](https://www.kaggle.com/datasets/namandixit07/mip-photonic) |
+| 10 | **Seizure Latent Dynamics – Derived EEG Dataset** | [Access Dataset](https://www.kaggle.com/datasets/namandixit07/latent-cortical-dynamics-eeg-seizure-dataset) |
 ---
 
 ### **Overview of Contributions**
