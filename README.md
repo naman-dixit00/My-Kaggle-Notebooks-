@@ -81,3 +81,8 @@ This document provides a structured list of the public datasets hosted on my Kag
 * **Quality Standard:** Most datasets maintain a **10.0 Usability Score**, ensuring high-quality metadata and documentation for the research community.
 
 ---
+### **License**
+
+This project and all associated datasets, notebooks, posters, and slides are the intellectual property of **Naman Dixit**.
+
+**© 2026 Naman Dixit. All rights reserved.**
